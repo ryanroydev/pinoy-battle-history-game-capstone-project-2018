@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 3e59c299c8a6166459945cea1d854103
+timeCreated: 1516244523
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BiBle
+    100004: Body
+    100006: Chest
+    100008: Default_Jose_Rizal__Book_001
+    100010: Default_Jose_Rizal_Hair
+    100012: Default_Jose_Rizal_Long_Sleeve
+    100014: Dfault_Jose_Rizal_Pants
+    100016: Finger01_L
+    100018: Finger01_R
+    100020: Finger02_L
+    100022: Finger02_R
+    100024: Golden_Book
+    100026: Hands_L
+    100028: Hands_R
+    100030: Head
+    100032: Hips
+    100034: //RootNode
+    100036: Jose_Rizal_Barong_Tagalog
+    100038: Jose_Rizal_Clown_Hair
+    100040: Jose_Rizal_Clown_NeckTie
+    100042: Jose_Rizal_Lower_Kimono
+    100044: Jose_Rizal_Polka_Dots_Short
+    100046: Jose_Rizal_Samurai_Hair
+    100048: Jose_Rizal_Upper_Kimono_
+    100050: Lower_Arm_L
+    100052: Lower_Arm_R
+    100054: Lower_Feet_L
+    100056: Lower_Feet_R
+    100058: Neck
+    100060: Shoulder_L
+    100062: Shoulder_R
+    100064: Spine
+    100066: Thumbs01_L
+    100068: Thumbs01_R
+    100070: Thumbs02_L
+    100072: Thumbs02_R
+    100074: Upper_Arm_L
+    100076: Upper_Arm_R
+    100078: Upper_Feet_L
+    100080: Upper_Feet_R
+    400000: Armature
+    400002: BiBle
+    400004: Body
+    400006: Chest
+    400008: Default_Jose_Rizal__Book_001
+    400010: Default_Jose_Rizal_Hair
+    400012: Default_Jose_Rizal_Long_Sleeve
+    400014: Dfault_Jose_Rizal_Pants
+    400016: Finger01_L
+    400018: Finger01_R
+    400020: Finger02_L
+    400022: Finger02_R
+    400024: Golden_Book
+    400026: Hands_L
+    400028: Hands_R
+    400030: Head
+    400032: Hips
+    400034: //RootNode
+    400036: Jose_Rizal_Barong_Tagalog
+    400038: Jose_Rizal_Clown_Hair
+    400040: Jose_Rizal_Clown_NeckTie
+    400042: Jose_Rizal_Lower_Kimono
+    400044: Jose_Rizal_Polka_Dots_Short
+    400046: Jose_Rizal_Samurai_Hair
+    400048: Jose_Rizal_Upper_Kimono_
+    400050: Lower_Arm_L
+    400052: Lower_Arm_R
+    400054: Lower_Feet_L
+    400056: Lower_Feet_R
+    400058: Neck
+    400060: Shoulder_L
+    400062: Shoulder_R
+    400064: Spine
+    400066: Thumbs01_L
+    400068: Thumbs01_R
+    400070: Thumbs02_L
+    400072: Thumbs02_R
+    400074: Upper_Arm_L
+    400076: Upper_Arm_R
+    400078: Upper_Feet_L
+    400080: Upper_Feet_R
+    4300000: Jose_Rizal_Clown_Hair
+    4300002: Jose_Rizal_Clown_NeckTie
+    4300004: Jose_Rizal_Polka_Dots_Short
+    4300006: Default_Jose_Rizal_Hair
+    4300008: Jose_Rizal_Lower_Kimono
+    4300010: Jose_Rizal_Upper_Kimono_
+    4300012: Jose_Rizal_Samurai_Hair
+    4300014: Jose_Rizal_Barong_Tagalog
+    4300016: Dfault_Jose_Rizal_Pants
+    4300018: Default_Jose_Rizal_Long_Sleeve
+    4300020: Body
+    4300022: BiBle
+    4300024: Golden_Book
+    4300026: Default_Jose_Rizal__Book_001
+    7400000: Default Take
+    7400002: Jose_Rizal_2_Attack
+    7400004: Jose_Rizal_Idle
+    7400006: Jose_RIzal_Part_2_Dead
+    7400008: Jose_Rizal_Part_2_Take_Damage
+    7400010: Jose_Rizal_Part_2_Walk
+    7400012: JR_Attack2
+    7400014: JR_Attack3
+    9500000: //RootNode
+    13700000: BiBle
+    13700002: Body
+    13700004: Default_Jose_Rizal__Book_001
+    13700006: Default_Jose_Rizal_Hair
+    13700008: Default_Jose_Rizal_Long_Sleeve
+    13700010: Dfault_Jose_Rizal_Pants
+    13700012: Golden_Book
+    13700014: Jose_Rizal_Barong_Tagalog
+    13700016: Jose_Rizal_Clown_Hair
+    13700018: Jose_Rizal_Clown_NeckTie
+    13700020: Jose_Rizal_Lower_Kimono
+    13700022: Jose_Rizal_Polka_Dots_Short
+    13700024: Jose_Rizal_Samurai_Hair
+    13700026: Jose_Rizal_Upper_Kimono_
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__golden_book_psd
+    second: {fileID: 2100000, guid: ac166271effebda4f8b8e4b9893a4b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__nolime_tanghere_book_psd_001
+    second: {fileID: 2100000, guid: dcb99a1040edd104499c9836c0d8006d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__Bible_Book_Texture_psd
+    second: {fileID: 2100000, guid: 0d0e71a6ba32cee4f81043e29eba565e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Jose_Rizal_Barong_Texture_psd
+    second: {fileID: 2100000, guid: 743b54cab9a56a94993f2aeac01db990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Jose_Rizal_Default_OutPit_Texture_psd
+    second: {fileID: 2100000, guid: f5353fb5d51bf934aa971bac592a4157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Jose_Rizal_Funny_outpit_Texture_psd
+    second: {fileID: 2100000, guid: 74fbb9f3c88e0744f8f099166989ef7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Jose_Rizal_Kimono_OutPit_Texture_psd
+    second: {fileID: 2100000, guid: d2789b01e8e431840af52fdb3dc7b131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Jose_Rizal__Part_2_Body_Texture_psd
+    second: {fileID: 2100000, guid: 270f903108edf8f4588c77bdbff81656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Joser_Rizal_Polka_Dots_Short_Texture_psd
+    second: {fileID: 2100000, guid: a9a6db866be8f1249a2641a638f626a1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jose_Rizal_2_Attack
+      takeName: Jose_Rizal_2_Attack
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.50728476
+        functionName: AttackEventAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: DisableAttackAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jose_Rizal_Idle
+      takeName: Jose_Rizal_Idle
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jose_RIzal_Part_2_Dead
+      takeName: Jose_RIzal_Part_2_Dead
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jose_Rizal_Part_2_Take_Damage
+      takeName: Jose_Rizal_Part_2_Take_Damage
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jose_Rizal_Part_2_Walk
+      takeName: Jose_Rizal_Part_2_Walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: JR_Attack2
+      takeName: JR_Attack2
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.26314288
+        functionName: AttackEventAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.70086616
+        functionName: AttackEventAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.80969465
+        functionName: DisableAttackAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: JR_Attack3
+      takeName: JR_Attack3
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.17786393
+        functionName: AttackEventAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.45278522
+        functionName: AttackEventAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7413741
+        functionName: AttackEventAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.81502086
+        functionName: DisableAttackAnimation
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 8fe736893b61c604aa157d9accbb40a0
+timeCreated: 1521164385
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Cube
+    100006: Cube_001
+    100008: //RootNode
+    100010: FInger01_L
+    100012: FInger01_R
+    100014: Finger02_L
+    100016: Finger02_R
+    100018: Hand_L
+    100020: Hand_R
+    100022: Head
+    100024: Hips
+    100026: Lower_Arm_L
+    100028: Lower_Arm_R
+    100030: Neck
+    100032: Shoulder_L
+    100034: Shoulder_R
+    100036: Spine
+    100038: Spine_001
+    100040: Spine_002
+    100042: Spine_003
+    100044: Spine_005
+    100046: Thumb01_L
+    100048: Thumb01_R
+    100050: Thumb02_L
+    100052: Thumb02_R
+    100054: Torus
+    100056: Tounge01
+    100058: Tounge02
+    100060: Tounge03
+    100062: Tounge04
+    100064: Tounge05
+    100066: Tounge06
+    100068: Tounge07
+    100070: Tounge08
+    100072: Upper_Arm_L
+    100074: Upper_Arm_R
+    400000: Armature
+    400002: Chest
+    400004: Cube
+    400006: Cube_001
+    400008: //RootNode
+    400010: FInger01_L
+    400012: FInger01_R
+    400014: Finger02_L
+    400016: Finger02_R
+    400018: Hand_L
+    400020: Hand_R
+    400022: Head
+    400024: Hips
+    400026: Lower_Arm_L
+    400028: Lower_Arm_R
+    400030: Neck
+    400032: Shoulder_L
+    400034: Shoulder_R
+    400036: Spine
+    400038: Spine_001
+    400040: Spine_002
+    400042: Spine_003
+    400044: Spine_005
+    400046: Thumb01_L
+    400048: Thumb01_R
+    400050: Thumb02_L
+    400052: Thumb02_R
+    400054: Torus
+    400056: Tounge01
+    400058: Tounge02
+    400060: Tounge03
+    400062: Tounge04
+    400064: Tounge05
+    400066: Tounge06
+    400068: Tounge07
+    400070: Tounge08
+    400072: Upper_Arm_L
+    400074: Upper_Arm_R
+    4300000: Torus
+    4300002: Cube_001
+    4300004: Cube
+    7400000: Default Take
+    7400002: TikTik_Attack
+    7400004: TikTik_Dead
+    7400006: TikTik_Idle
+    7400008: TikTik_Take_Damage
+    7400010: Tiktik_Walk
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Cube_001
+    13700004: Torus
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__TikTikShortTexture3_psd
+    second: {fileID: 2100000, guid: 0ece481dfe7b2844fa517d58a82293f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__TiktikTexture3_psd
+    second: {fileID: 2100000, guid: 047880f7b670dc84db24c199ee4a5181, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__HilloTexture
+    second: {fileID: 2100000, guid: 0435d504e694015448fd15fdf544202d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

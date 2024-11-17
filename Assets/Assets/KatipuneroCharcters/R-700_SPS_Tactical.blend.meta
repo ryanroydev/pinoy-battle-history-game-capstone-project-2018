@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 22f4d2bbb50ed1141a6c6a4919283ca6
+timeCreated: 1509079117
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: Rifle_Barrel
+    100006: Rifle_barrel_2
+    100008: Rifle_Bolt
+    100010: Rifle_Bolt_Handle
+    100012: Rifle_Stock
+    100014: Safety
+    100016: Scope
+    100018: Scope_Holder_1
+    100020: Scope_Holder_2
+    100022: Scope_Knob_Support_2
+    100024: Scope_Knobs
+    100026: Scope_Lens
+    100028: Scope_Lens_2
+    100030: Top_Scope_Knob
+    100032: Trigger
+    100034: Trigger_Guard
+    400000: Cube
+    400002: //RootNode
+    400004: Rifle_Barrel
+    400006: Rifle_barrel_2
+    400008: Rifle_Bolt
+    400010: Rifle_Bolt_Handle
+    400012: Rifle_Stock
+    400014: Safety
+    400016: Scope
+    400018: Scope_Holder_1
+    400020: Scope_Holder_2
+    400022: Scope_Knob_Support_2
+    400024: Scope_Knobs
+    400026: Scope_Lens
+    400028: Scope_Lens_2
+    400030: Top_Scope_Knob
+    400032: Trigger
+    400034: Trigger_Guard
+    2300000: Cube
+    2300002: Rifle_Barrel
+    2300004: Rifle_barrel_2
+    2300006: Rifle_Bolt
+    2300008: Rifle_Bolt_Handle
+    2300010: Rifle_Stock
+    2300012: Safety
+    2300014: Scope
+    2300016: Scope_Holder_1
+    2300018: Scope_Holder_2
+    2300020: Scope_Knob_Support_2
+    2300022: Scope_Knobs
+    2300024: Scope_Lens
+    2300026: Scope_Lens_2
+    2300028: Top_Scope_Knob
+    2300030: Trigger
+    2300032: Trigger_Guard
+    3300000: Cube
+    3300002: Rifle_Barrel
+    3300004: Rifle_barrel_2
+    3300006: Rifle_Bolt
+    3300008: Rifle_Bolt_Handle
+    3300010: Rifle_Stock
+    3300012: Safety
+    3300014: Scope
+    3300016: Scope_Holder_1
+    3300018: Scope_Holder_2
+    3300020: Scope_Knob_Support_2
+    3300022: Scope_Knobs
+    3300024: Scope_Lens
+    3300026: Scope_Lens_2
+    3300028: Top_Scope_Knob
+    3300030: Trigger
+    3300032: Trigger_Guard
+    4300000: Top_Scope_Knob
+    4300002: Scope_Knob_Support_2
+    4300004: Scope_Holder_1
+    4300006: Safety
+    4300008: Rifle_Bolt_Handle
+    4300010: Rifle_Bolt
+    4300012: Rifle_barrel_2
+    4300014: Rifle_Barrel
+    4300016: Scope_Holder_2
+    4300018: Rifle_Stock
+    4300020: Cube
+    4300022: Trigger
+    4300024: Trigger_Guard
+    4300026: Scope
+    4300028: Scope_Knobs
+    4300030: Scope_Lens
+    4300032: Scope_Lens_2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
