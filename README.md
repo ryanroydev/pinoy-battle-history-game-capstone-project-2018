@@ -120,6 +120,15 @@ Players can select one of four famous Philippine national heroes: **Gabriela Sil
 
 ---
 
+## OUTPUT
+
+## Input and Output 
+![Input Image](https://ryanroydev.github.io/capstoneimages/screen_1.PNG)
+
+![Output Image](https://ryanroydev.github.io/capstoneimages/screen_2.PNG)
+
+![Output Image](https://ryanroydev.github.io/capstoneimages/screen_3.PNG)
+
 ## Installation
 
 To run this game on your local machine, follow these steps:
