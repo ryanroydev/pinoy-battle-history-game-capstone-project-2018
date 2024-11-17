@@ -75,23 +75,23 @@ Players can select one of four famous Philippine national heroes: **Gabriela Sil
   At the start of each turn, the player will be presented with a trivia question related to the selected era. The player has a limited time to answer the question correctly.
 
   - **Correct Answer**:  
-    If the player answers correctly, their character (the national hero) gains the strength to attack. The attack can be a physical strike or a special ability, depending on the hero’s unique traits.
-  
+    If the player answers correctly, their character (the national hero) will deal a normal attack to the folklore creature, reducing its health.
+
   - **Incorrect Answer**:  
-    If the player answers incorrectly, the folklore creature will counter-attack. The creature uses its own powers or special attacks to deal damage to the player’s character.
+    If the player answers incorrectly, the folklore creature will counter-attack, reducing the player's health.
 
 - **Attack Mechanics**:  
-  Each national hero and folklore creature has unique abilities that are powered up by correct answers. The strength of the attack or defense depends on how well the player performs during the trivia phase.
-  
-  - **Heroes**: Each hero has a special move that can be unlocked by correctly answering consecutive questions. For example, **Gabriela Silang** might unleash a powerful cavalry charge, **Apolinario Mabini** could use strategic defense skills, **Lapu-Lapu** might summon a fierce battle move, and **Jose Rizal** could use his intelligence to deal a devastating strategic blow.
+  Each national hero and folklore creature deals damage using a normal attack. The strength of the attack depends on whether the player answers trivia questions correctly. A correct answer boosts the hero’s attack, while an incorrect answer increases the creature’s counterattack.
 
-  - **Folklore Creatures**: When attacking, the folklore creatures will retaliate with their own abilities, such as the **Tiktik** using its blood-sucking ability or the **Manangal** unleashing a deadly flight attack.
+  - **Heroes**: Each hero has a basic attack that can be used each turn. For example, **Gabriela Silang** uses a spear attack, **Apolinario Mabini** utilizes a defensive strike, **Lapu-Lapu** uses his sword, and **Jose Rizal** uses his sharp intellect in a quick strike.
+  
+  - **Folklore Creatures**: When attacking, the folklore creatures deal damage using their own normal attacks, such as the **Tiktik** with its biting ability or the **Manangal** with a claw attack.
 
 - **Health and Damage**:  
-  Each character (both heroes and folklore creatures) has a health bar. Correct answers by the player will increase the character's attack power, while incorrect answers will increase the folklore creature's attack. The goal is to reduce the opponent's health to zero while maintaining your own hero's health.
+  Each character (both heroes and folklore creatures) has a health bar. Correct answers by the player will increase the hero's attack strength, while incorrect answers will give the folklore creature an opportunity to deal damage. The goal is to reduce the opponent's health to zero while maintaining your own hero's health.
 
 - **Level Progression**:  
-  As the player progresses through the game, the difficulty of the trivia questions increases, and the folklore creatures become stronger. The player must answer questions from more challenging periods in history, while facing more aggressive enemies.
+  As the player progresses through the game, the difficulty of the trivia questions increases, and the folklore creatures become stronger. The player must answer questions from more challenging periods in history while facing more aggressive enemies.
 
 - **Victory Conditions**:  
   The player wins the battle by answering enough questions correctly to defeat the folklore creature. If the folklore creature's health reaches zero, the player progresses to the next level. Conversely, if the player’s character's health drops to zero, the player loses the battle.
@@ -114,8 +114,7 @@ Players can select one of four famous Philippine national heroes: **Gabriela Sil
 ## Technologies Used
 
 - **Game Engine**: Unity (or another game development platform if applicable)
-- **Programming Languages**: C#, JavaScript, Python (depending on the game setup)
-- **Database**: SQLite or Firebase (for storing trivia questions and player progress)
+- **Programming Languages**: C#
 - **Version Control**: Git and GitHub
 - **Graphics and Art**: Blender, Adobe Photoshop, Illustrator (for character and environment design)
 
