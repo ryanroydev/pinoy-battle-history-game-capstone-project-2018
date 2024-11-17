@@ -12,9 +12,7 @@ This is an interactive educational game where players take on the roles of Phili
 5. [Trivia Question Categories](#trivia-question-categories)
 6. [Technologies Used](#technologies-used)
 7. [Installation](#installation)
-8. [How to Play](#how-to-play)
-9. [Contributors](#contributors)
-10. [License](#license)
+8. [Output](#output)
 
 ---
 
