@@ -1,4 +1,4 @@
-# Pinoy Battle History Game - Capstone Project 2018
+# Pinoy Battle For History Game - Capstone Project 2018
 
 This is an interactive educational game where players take on the roles of Philippine National Heroes and battle against mythical creatures from Filipino folklore. Players will also face historical trivia questions covering different eras of Philippine history. The goal is to not only engage with exciting battle mechanics but also learn about the rich history and culture of the Philippines.
 
@@ -12,7 +12,7 @@ This is an interactive educational game where players take on the roles of Phili
 5. [Trivia Question Categories](#trivia-question-categories)
 6. [Technologies Used](#technologies-used)
 7. [Installation](#installation)
-8. [Output](#output)
+8. [Screenshots](#screenshots)
 
 ---
 
@@ -118,9 +118,8 @@ Players can select one of four famous Philippine national heroes: **Gabriela Sil
 
 ---
 
-## OUTPUT
+## Screenshots
 
-## Input and Output 
 ![Input Image](https://ryanroydev.github.io/capstoneimages/screen_1.PNG)
 
 ![Output Image](https://ryanroydev.github.io/capstoneimages/screen_2.PNG)
